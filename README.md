@@ -1,5 +1,5 @@
 # Basic operations game
 
-O sistema irá sortear dois números inteiros aleatórios, sendo o primeiro de 1 a 10, e o segundo de 1 a 20.
-Em seguida os números serão exibidos e o usuário deve responder o resultado da soma, multiplicação, subtração e divisão.
-O sistema só pedirá a próxima operação quando a resposta correta for inserida pelo usuário.
+The system will draw two random integers, the first from 1 to 10 and the second from 1 to 20. 
+The numbers will then be displayed and the user must answer the result of addition, multiplication, subtraction and division. 
+The system will only ask for the next operation when the user has entered the correct answer.
